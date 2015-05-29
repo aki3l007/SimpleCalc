@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SimpleCalc</string>
+
+    <string name="oblicz_wynik">Oblicz wynik</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="operators">
+        <item>+</item>
+        <item>-</item>
+        <item>x</item>
+        <item>/</item>
+    </string-array>
+</resources>
